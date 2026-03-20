@@ -1,2 +1,3 @@
-# pro-data-visualizer-xzim
+# Pro Data Visualizer Xzim
+
 A repository to test GitHub automation for issue management.
